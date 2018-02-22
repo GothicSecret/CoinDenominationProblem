@@ -14,4 +14,6 @@ Is John’s skepticism valid? Or are the government PhD’s correct? Can this sy
 
 Using the newly minted coins, how can he determine the correct combination of coin in order to make his purchase? 
 
+Be aware, there is proposed legislation amending the current law, which will additionally require that payment for purchases with these new coins must always be tendered using the *minimum* number of coins. Again, the PhD's in Washington have determined that this will additionally prolong the useful life of the coins, thus saving taxpayers money over the long-term. 
+
 
