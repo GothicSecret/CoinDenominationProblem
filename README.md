@@ -8,9 +8,10 @@ In an additional effort to stimulate economic growth, the current administration
 The upshot of all this is that for any purchase, one need simply determine the correct combination of these three denominations of coin which total the purchase amount. 
 
 
-John Ockers, a die hard fan of ‘90s pop-punk, has gone and picked out a selection of CD’s by his favorite bands of the era, the total cost of of the purchase being $31.89. 
+John Ockers, a die hard fan of sugary-sweet ‘90s pop-punk, has gone and picked out a selection of CD’s by his favorite bands of the era, the total cost of of the purchase being $31.89. While there is no accounting for people’s taste in music, John simply doesn’t believe this new system of coins works as advertised. He can’t figure out how to find the correct combination of coins to pay for his music. 
 
-Are the government PhD’s correct? Can this system possibly work?
+Is John’s skepticism valid? Or are the government PhD’s correct? Can this system possibly work?
 
 Using the newly minted coins, how can he determine the correct combination of coin in order to make his purchase? 
+
 
