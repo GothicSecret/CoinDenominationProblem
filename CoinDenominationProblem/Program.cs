@@ -41,8 +41,7 @@ namespace CoinDenominationProblem
             {
                 Coins7 = theIntCost / 7
             };
-            int remainder = theIntCost - coinPurse.Coins7 * 7;
-            switch (remainder)
+            switch (theIntCost - coinPurse.Coins7 * 7)
             {
                 case 1:// -7 so remains 1 + 7 = 8. Add 4 + 4
                     coinPurse.Coins7--;
